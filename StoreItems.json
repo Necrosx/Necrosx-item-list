@@ -9460,7 +9460,7 @@
       "abr": "mechanoidhullplating",
       "category": "Misc",
       "defname": "ShipHullTileMech",
-      "price": 36
+      "price": 29
     },
     {
       "abr": "mechanoidshiphull",
@@ -9658,7 +9658,7 @@
       "abr": "hullplating",
       "category": "Misc",
       "defname": "ShipHullTile",
-      "price": 36
+      "price": 29
     },
     {
       "abr": "smallhardpoint",
@@ -10066,7 +10066,7 @@
       "abr": "archotechhullplating",
       "category": "Misc",
       "defname": "ShipHullTileArchotech",
-      "price": 53
+      "price": 47
     },
     {
       "abr": "archotechspore",
@@ -27403,6 +27403,600 @@
       "price": 2917
     },
     {
+      "abr": "arcanetome:adevnturer",
+      "category": "Skill books",
+      "defname": "BookOfAdevnturer",
+      "price": 5500
+    },
+    {
+      "abr": "archonexuschargingpillari",
+      "category": "Special",
+      "defname": "MAG_ArchotechTranscendenceThing_One",
+      "price": 11342
+    },
+    {
+      "abr": "archonexuschargingpillarii",
+      "category": "Special",
+      "defname": "MAG_ArchotechTranscendenceThing_Two",
+      "price": 18008
+    },
+    {
+      "abr": "archonexuschargingpillariii",
+      "category": "Special",
+      "defname": "MAG_ArchotechTranscendenceThing_Three",
+      "price": 21342
+    },
+    {
+      "abr": "archonexuskeyi",
+      "category": "Items",
+      "defname": "MAG_ArchonexusCore_One",
+      "price": 6667
+    },
+    {
+      "abr": "archonexuskeyii",
+      "category": "Items",
+      "defname": "MAG_ArchonexusCore_Two",
+      "price": 10000
+    },
+    {
+      "abr": "archonexuskeyiii",
+      "category": "Items",
+      "defname": "MAG_ArchonexusCore_Three",
+      "price": 13333
+    },
+    {
+      "abr": "archotechanimalproduct",
+      "category": "Animal products",
+      "defname": "ArchotechMilkEggThing",
+      "price": 8
+    },
+    {
+      "abr": "archotechbake",
+      "category": "Meals",
+      "defname": "MAG_ArchotechBake",
+      "price": 300
+    },
+    {
+      "abr": "archotechbattery",
+      "category": "Special",
+      "defname": "MAG_ArchotechBatteryS",
+      "price": 10292
+    },
+    {
+      "abr": "archotechcheese",
+      "category": "Animal products",
+      "defname": "MAG_ArchotechCheese",
+      "price": 8
+    },
+    {
+      "abr": "archotechcleaner",
+      "category": "Furniture",
+      "defname": "MAG_GarbageBin",
+      "price": 3000
+    },
+    {
+      "abr": "archotechcooler",
+      "category": "Special",
+      "defname": "ArchoReverseTemperatureThing",
+      "price": 408
+    },
+    {
+      "abr": "archotechdarklight",
+      "category": "Special",
+      "defname": "ArchoLampThingDark",
+      "price": 392
+    },
+    {
+      "abr": "archotechdessert",
+      "category": "Meals",
+      "defname": "MAG_ArchotechDessert",
+      "price": 208
+    },
+    {
+      "abr": "archotechdoor",
+      "category": "Misc",
+      "defname": "MAG_ArchotechDoor",
+      "price": 925
+    },
+    {
+      "abr": "archotechdoor(2x1)",
+      "category": "Misc",
+      "defname": "PH_MAG_DoorDouble",
+      "price": 1850
+    },
+    {
+      "abr": "archotechdoor(3x1)",
+      "category": "Misc",
+      "defname": "PH_MAG_DoorTriple",
+      "price": 2775
+    },
+    {
+      "abr": "archotechembrasure(hole)",
+      "category": "Misc",
+      "defname": "MAG_O21_Embrasure_Hole",
+      "price": 708
+    },
+    {
+      "abr": "archotechembrasure(letterbox)",
+      "category": "Misc",
+      "defname": "MAG_O21_Embrasure_Letterbox",
+      "price": 708
+    },
+    {
+      "abr": "archotechfish",
+      "category": "Raw fish",
+      "defname": "MAG_VCEF_ArchotechFish",
+      "price": 8
+    },
+    {
+      "abr": "archotechfragment",
+      "category": "Raw resources",
+      "defname": "ArchotechScrap",
+      "price": 67
+    },
+    {
+      "abr": "archotechgrill",
+      "category": "Meals",
+      "defname": "MAG_archotechgrill",
+      "price": 300
+    },
+    {
+      "abr": "archotechheater",
+      "category": "Special",
+      "defname": "ArchoStandardTemperatureThing",
+      "price": 408
+    },
+    {
+      "abr": "archotechkibble",
+      "category": "Foods",
+      "defname": "MAG_Archotech_Kibble",
+      "price": 50
+    },
+    {
+      "abr": "archotechlight",
+      "category": "Special",
+      "defname": "ArchoLampThing",
+      "price": 392
+    },
+    {
+      "abr": "archotechlimbassembler",
+      "category": "Special",
+      "defname": "ArchoPartAssembler",
+      "price": 24683
+    },
+    {
+      "abr": "archotechmass",
+      "category": "Raw resources",
+      "defname": "archotechmatteraddingsomecraptoavoidproblems",
+      "price": 67
+    },
+    {
+      "abr": "archotechmeal",
+      "category": "Meals",
+      "defname": "MealArchoAdvanced",
+      "price": 300
+    },
+    {
+      "abr": "archotechmeat",
+      "category": "Meat",
+      "defname": "SuperDuperArchoMeat",
+      "price": 8
+    },
+    {
+      "abr": "archotechmedicine",
+      "category": "Medicine",
+      "defname": "ArchotechishMedicine",
+      "price": 2083
+    },
+    {
+      "abr": "archotechnourisher",
+      "category": "Special",
+      "defname": "ArchoCookingAssistant",
+      "price": 5917
+    },
+    {
+      "abr": "archotechplantmatter",
+      "category": "Vegetarian",
+      "defname": "SuperDuperArchoPlant",
+      "price": 8
+    },
+    {
+      "abr": "archotechresearchassistant",
+      "category": "Special",
+      "defname": "ArchoDecipherAI",
+      "price": 14333
+    },
+    {
+      "abr": "archotechresurrector",
+      "category": "Items",
+      "defname": "MechSerumResurrectorButBetter",
+      "price": 5833
+    },
+    {
+      "abr": "archotechrocketengine",
+      "category": "Misc",
+      "defname": "MAG_Ship_Engine_Small",
+      "price": 30867
+    },
+    {
+      "abr": "archotechsoda",
+      "category": "Drugs",
+      "defname": "MAG_ArchotechSoda",
+      "price": 20
+    },
+    {
+      "abr": "archotechsodasyrup",
+      "category": "Musts and syrups",
+      "defname": "MAG_ArchotechSodaSyrup",
+      "price": 12
+    },
+    {
+      "abr": "archotechsoup",
+      "category": "Meals",
+      "defname": "MAG_ArchotechSoup",
+      "price": 300
+    },
+    {
+      "abr": "archotechspices",
+      "category": "Condiments",
+      "defname": "ArchoNutVial",
+      "price": 17
+    },
+    {
+      "abr": "archotechsprinkler",
+      "category": "Special",
+      "defname": "MAG_VFE_ArchotechSprinkler",
+      "price": 1667
+    },
+    {
+      "abr": "archotechstoragechamber",
+      "category": "Furniture",
+      "defname": "MAG_LWM_BoxOne",
+      "price": 8058
+    },
+    {
+      "abr": "archotechstove",
+      "category": "Production",
+      "defname": "MAG_ArchotechCookingStove",
+      "price": 12975
+    },
+    {
+      "abr": "archotechwall",
+      "category": "Misc",
+      "defname": "ArchotechWallNoRepair",
+      "price": 176
+    },
+    {
+      "abr": "archotechwall",
+      "category": "Misc",
+      "defname": "MAG_ArchotechWall",
+      "price": 254
+    },
+    {
+      "abr": "archotechwall(+)",
+      "category": "Misc",
+      "defname": "ArchotechWallRepair",
+      "price": 303
+    },
+    {
+      "abr": "archotechworkbench",
+      "category": "Production",
+      "defname": "ArchBench",
+      "price": 2917
+    },
+    {
+      "abr": "autoresearcher",
+      "category": "Special",
+      "defname": "MAG_AutoResearcher",
+      "price": 2742
+    },
+    {
+      "abr": "blindnessbeacon",
+      "category": "Special",
+      "defname": "ArchotechBlindnessBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "combatbeacon",
+      "category": "Special",
+      "defname": "ArchotechPewPewBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "constructionbeacon",
+      "category": "Special",
+      "defname": "ArchotechConstructBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "faunabeacon",
+      "category": "Special",
+      "defname": "ArchotechZooBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "florabeacon",
+      "category": "Special",
+      "defname": "ArchotechPlantBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "fragilitybeacon",
+      "category": "Special",
+      "defname": "ArchotechFragilityBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "gourmetbeacon",
+      "category": "Special",
+      "defname": "ArchotechRamseyBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "growthbeacon",
+      "category": "Special",
+      "defname": "ArchotechMeatLeatherYieldBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "hastebeacon",
+      "category": "Special",
+      "defname": "ArchotechHermesBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "healthbeacon",
+      "category": "Special",
+      "defname": "ArchotechHealMyBootyBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "knowledgebeacon",
+      "category": "Special",
+      "defname": "ArchotechBrainBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "largearchotechreplicator",
+      "category": "Special",
+      "defname": "MAG_ArchoReproductorLarge",
+      "price": 2079475
+    },
+    {
+      "abr": "largeshuttlebay",
+      "category": "Misc",
+      "defname": "ShipShuttleBayLarge",
+      "price": 5875
+    },
+    {
+      "abr": "mechanoidsummoner",
+      "category": "Special",
+      "defname": "ArchoMechSummoner",
+      "price": 3733
+    },
+    {
+      "abr": "mediumarchotechreplicator",
+      "category": "Special",
+      "defname": "MAG_ArchoReproductorMedium",
+      "price": 231242
+    },
+    {
+      "abr": "meteoritesummoner",
+      "category": "Special",
+      "defname": "ArchoMeteorSummon",
+      "price": 4117
+    },
+    {
+      "abr": "miniaturearchotechreplicator",
+      "category": "Special",
+      "defname": "MAG_ArchoReproductorMini",
+      "price": 2575
+    },
+    {
+      "abr": "miningbeacon",
+      "category": "Special",
+      "defname": "ArchotechDiggeyBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "motivationbeacon",
+      "category": "Special",
+      "defname": "ArchotechGenerictBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "painbeacon",
+      "category": "Special",
+      "defname": "ArchotechPainIncreaseBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "painsuppressionbeacon",
+      "category": "Special",
+      "defname": "ArchotechPainDecreaseBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "podsummoner",
+      "category": "Special",
+      "defname": "ArchoPodGenerator",
+      "price": 4708
+    },
+    {
+      "abr": "primitivearchotechlight",
+      "category": "Special",
+      "defname": "MAG_ArchotechTorchLamp",
+      "price": 109
+    },
+    {
+      "abr": "primitivearchotechwall",
+      "category": "Misc",
+      "defname": "MAG_PrimitiveArchotechWall",
+      "price": 84
+    },
+    {
+      "abr": "protectionbeacon",
+      "category": "Special",
+      "defname": "ArchotechProtectMyBootyBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "psychicamplifierbeacon",
+      "category": "Special",
+      "defname": "ArchotechPsychicAmpBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "psychicanimaltrainer",
+      "category": "Utility",
+      "defname": "TrainingArtifact",
+      "price": 917
+    },
+    {
+      "abr": "psychicdeafnessbeacon",
+      "category": "Special",
+      "defname": "ArchotechPsychicDeafnessBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "psychichealerlance",
+      "category": "Utility",
+      "defname": "HealAndStuffArtifact",
+      "price": 917
+    },
+    {
+      "abr": "psychicinspirationlance",
+      "category": "Utility",
+      "defname": "InspireArtifact",
+      "price": 917
+    },
+    {
+      "abr": "psychickillswitch",
+      "category": "Utility",
+      "defname": "DeathArtifact",
+      "price": 917
+    },
+    {
+      "abr": "psychicmanipulator",
+      "category": "Special",
+      "defname": "RaidorJoinorTameorManhunter",
+      "price": 11183
+    },
+    {
+      "abr": "psychicrecruiter",
+      "category": "Utility",
+      "defname": "RecruitArtifact",
+      "price": 917
+    },
+    {
+      "abr": "psychicstasislance",
+      "category": "Utility",
+      "defname": "StatisArtifact",
+      "price": 917
+    },
+    {
+      "abr": "psychicterrorpulser",
+      "category": "Artifacts",
+      "defname": "PsychicSpookPulser",
+      "price": 2500
+    },
+    {
+      "abr": "psychictranquilitylance",
+      "category": "Utility",
+      "defname": "MentalResetArtifact",
+      "price": 917
+    },
+    {
+      "abr": "psyrestorelance",
+      "category": "Utility",
+      "defname": "PsyrestoreArtifact",
+      "price": 917
+    },
+    {
+      "abr": "resourceassembler",
+      "category": "Special",
+      "defname": "SexyResourceDispenser",
+      "price": 16467
+    },
+    {
+      "abr": "slownessbeacon",
+      "category": "Special",
+      "defname": "ArchotechSlownessBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "smallarchotechreplicator",
+      "category": "Special",
+      "defname": "ArchoReproductor",
+      "price": 25717
+    },
+    {
+      "abr": "socialbeacon",
+      "category": "Special",
+      "defname": "ArchotechChadBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "strengthbeacon",
+      "category": "Special",
+      "defname": "ArchotechHaulingBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "superheavydropship",
+      "category": "Furniture",
+      "defname": "DropshipShuttle",
+      "price": 16358
+    },
+    {
+      "abr": "superheavydropship(hovermode)",
+      "category": "Animal",
+      "defname": "ShuttleDropshipRace",
+      "price": 33333
+    },
+    {
+      "abr": "temperaturebeacon",
+      "category": "Special",
+      "defname": "ArchotechTempBeacon",
+      "price": 12500
+    },
+    {
+      "abr": "tornscript:adevnturer",
+      "category": "Skill books",
+      "defname": "Torn_BookOfAdevnturer",
+      "price": 2917
+    },
+    {
+      "abr": "uncookedarchotechsoup",
+      "category": "Uncooked soups",
+      "defname": "MAG_UncookedArchotechSoup",
+      "price": 167
+    },
+    {
+      "abr": "vanometricliquidprocessor",
+      "category": "Production",
+      "defname": "MAG_VanometricPot",
+      "price": 5667
+    },
+    {
+      "abr": "vanometrictimealterationchamber",
+      "category": "Production",
+      "defname": "MAG_ArchotechCheesePress",
+      "price": 5667
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
+    },
+    {
+      "abr": "zombgrella",
+      "category": "Misc",
+      "defname": "Zombgrella",
+      "price": 742
+    },
+    {
       "abr": "nanotechslabbed",
       "category": "Furniture",
       "defname": "SlabBed_NanoBed",
@@ -27781,5 +28375,5 @@
       "price": 658
     }
   ],
-  "total": 4630
+  "total": 4729
 }
